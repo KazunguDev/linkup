@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "150292881515",
+    "project_id": "linkup-b5ede",
+    "storage_bucket": "linkup-b5ede.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150292881515:android:47c0ffece2ded37224512e",
+        "android_client_info": {
+          "package_name": "com.kazungudev.linkup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFXgzZo2_Ugn0iMuX9OJEt8NnY6nPnSXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
